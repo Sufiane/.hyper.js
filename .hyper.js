@@ -168,6 +168,7 @@ module.exports = {
     'hypercwd',
     'hyper-statusline',
     'hyper-tabs-enhanced',
+    'hyper-search',
 
     //fun
     'gitrocket',
